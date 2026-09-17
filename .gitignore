@@ -1,0 +1,18 @@
+# Original full-size source photos as supplied — not used directly by the
+# live site (optimized copies live in images/). Excluded to keep the repo
+# small; kept locally for reference.
+source-assets/
+
+# Earlier prototype built with a different tool (Astro), superseded by the
+# plain HTML/CSS/JS site. Kept locally for reference, not part of the repo.
+archive-astro-prototype/
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
