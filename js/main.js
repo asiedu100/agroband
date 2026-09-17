@@ -20,6 +20,19 @@
   });
 })();
 
+(function prefillEnquiryType() {
+  var select = document.getElementById('enquiryType');
+  if (!select) return;
+  var wanted = new URLSearchParams(window.location.search).get('enquiry');
+  if (!wanted) return;
+  for (var i = 0; i < select.options.length; i++) {
+    if (select.options[i].value === wanted) {
+      select.value = wanted;
+      break;
+    }
+  }
+})();
+
 (function contactForm() {
   var form = document.querySelector('[data-form]');
   if (!form) return;
