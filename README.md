@@ -45,7 +45,7 @@ To swap or add a photo: put the image file in `images/`, then reference it as `i
 
 - **Team** (`team.html` + homepage preview): Dr. Boakye Danquah Oliver (Co-Founder & CEO), Ing. Adomako Yaw Benajah (Co-Founder & Chairman), Lawrencia Asieduah Osei (CFO), David Etim (Europe Presiding Representative, Germany), Daniella Afrakumah Danquah (Administrator).
 - **Impact stats** (homepage): 1,000+ Farmers Empowered, 50,000+ Tons Exported, 25+ Export Destinations, 100% Sustainable, 3+ Years Experience, 5K Hectares, 100% Traceable — each animates in as you scroll to it.
-- **Location**: Tesano, Accra — shown in every page footer (linked to Google Maps) and embedded as an interactive map on `contact.html`.
+- **Location**: Ecfactum Limited, Tesano, Accra — shown in every page footer (linked to Google Maps) and embedded as an interactive map on `contact.html`.
 - **Global Markets**: 13 countries across Africa, Europe and the Americas, each with a flag, shown on both the homepage and the dedicated Global Markets page.
 
 ## Before this goes live — still needs your input
